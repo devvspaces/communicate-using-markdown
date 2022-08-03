@@ -1,31 +1,10 @@
-# Heading H1
-## Heading H2
-### Heading H3
-#### Heading H4
-##### Heading H5
-###### Heading H6
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
-This are the list of things i want to do this year
-- [ ] Learn Golang
-- [ ] Build a website with Golang
-- [ ] Collaborate with other Golang OS projects
-- [ ] Build my own Golang packages, maintain and use it
-- [ ] Land a 7 digit paying job
-- [ ] Travelled out of Nigeria
-- [ ] Completed Xcrowme Project
-- [x] Learnt Python\
-- [ ] Followed Big tech companies
+100. Hi
+     - This is me
+     - That is u
 
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-```python
-from python import python
-for i in u:
-  print(i**2)
-```
-
-## Add an image below
-![](https://octodex.github.com/images/yaktocat.png)
